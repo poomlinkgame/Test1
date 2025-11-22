@@ -1,0 +1,6 @@
+@WebAuthen_HostAddress = http://localhost:5035
+
+GET {{WebAuthen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
