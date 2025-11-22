@@ -9015,11 +9015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\WebAuthen-ProjectPoom\\WebAuthen.csproj",
+      "projectUniqueName": "C:\\ABC\\Project1\\Poom\\WebAuthen-ProjectPoom\\WebAuthen.csproj",
       "projectName": "WebAuthen",
-      "projectPath": "C:\\Users\\User\\Downloads\\WebAuthen-ProjectPoom\\WebAuthen.csproj",
+      "projectPath": "C:\\ABC\\Project1\\Poom\\WebAuthen-ProjectPoom\\WebAuthen.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\WebAuthen-ProjectPoom\\obj\\",
+      "outputPath": "C:\\ABC\\Project1\\Poom\\WebAuthen-ProjectPoom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

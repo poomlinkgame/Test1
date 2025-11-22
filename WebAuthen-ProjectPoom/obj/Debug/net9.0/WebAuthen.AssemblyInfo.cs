@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAuthen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ae1d81e744d8b8a70ad336757f4f51e304b040")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAuthen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAuthen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -184,4 +184,5 @@ public class personalDto
     public string? sso_no { get; set; }
     public string? tax_no { get; set; }
     public string? nickname { get; set; }
+    public
 }
